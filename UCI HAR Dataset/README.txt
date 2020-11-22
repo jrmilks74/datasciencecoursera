@@ -12,3 +12,6 @@ This repository is a submission by James R. Milks to the Getting and Cleaning Da
 ***
 
 * Code Book.rmd listing the R data frames created by run_analysis.R, including variables, size, and other information on the analysis
+
+
+Along with those three files, I also uploaded the raw data needed to reproduce the analysis in the test and train folders, features.txt, activity_labels.txt, and features_labels.txt files
